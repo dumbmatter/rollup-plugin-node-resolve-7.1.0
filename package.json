@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^7.1.0",
+    "idb": "^5.0.1",
+    "rollup": "^1.31.0"
+  }
+}
